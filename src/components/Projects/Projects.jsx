@@ -9,7 +9,7 @@ const Projects = () => {
       </div>
       <div className="grid md:grid-cols-3 gap-10 px-8 max-w-7xl mx-auto">
         <div className="bg-gradient-to-br from-[#0F172A] to-[#1E293B] p-6 rounded-2xl shadow-lg border border-[#334155] transition transform hover:-translate-y-2 hover:shadow-xl">
-          <h3 className="text-2xl font-semibold mb-3 text-violet-400">SaaSForge</h3>
+          <h3 className="text-2xl font-semibold mb-3 text-violet-400">LaunchPad Forge</h3>
           <p className="text-gray-300 mb-4">A SaaS boilerplate platform to help founders launch full-stack SaaS faster using modern stack & best practices.</p>
           <a href="#" className="text-violet-300 font-semibold hover:underline">Learn More →</a>
         </div>
