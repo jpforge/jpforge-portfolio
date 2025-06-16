@@ -5,7 +5,7 @@ const About = () => (
     <h2 className="text-5xl font-bold mb-8 tracking-tight">About Me</h2>
     <div className="max-w-4xl mx-auto text-lg leading-relaxed px-4">
       <p className="mb-6">
-        I’m <span className="font-semibold text-[#8B5CF6]">JPForge</span> — full-stack developer, product builder, and SaaS founder in the making.
+        I’m <span className="font-semibold text-[#8B5CF6]">Jayaorakash</span> — full-stack developer, product builder, and SaaS founder in the making.
       </p>
       <p className="mb-6">
         With years of experience building modern, scalable web apps, I specialize in translating ideas into production-grade products — from MVPs to full-scale SaaS platforms.
