@@ -11,7 +11,7 @@ const Projects = () => {
         <div className="bg-gradient-to-br from-[#0F172A] to-[#1E293B] p-6 rounded-2xl shadow-lg border border-[#334155] transition transform hover:-translate-y-2 hover:shadow-xl">
           <h3 className="text-2xl font-semibold mb-3 text-violet-400">DevFlow AI</h3>
           <p className="text-gray-300 mb-4">A GitHub-integrated, AI-powered workflow copilot that automates code reviews, PR creation, test generation, and deployment workflows.</p>
-          <a href="#" className="text-violet-300 font-semibold hover:underline">Learn More →</a>
+          <a href="https://devflow-ai-dun.vercel.app/" className="text-violet-300 font-semibold hover:underline">Learn More →</a>
         </div>
         <div className="bg-gradient-to-br from-[#0F172A] to-[#1E293B] p-6 rounded-2xl shadow-lg border border-[#334155] transition transform hover:-translate-y-2 hover:shadow-xl">
           <h3 className="text-2xl font-semibold mb-3 text-violet-400">StackStart</h3>
